@@ -10,7 +10,7 @@ All flags, countries they belong to and what the nationality is called in:
 
 - https://flags-country-names-and-nationalities-with-eer.netlify.app/country-list.json
 - https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags/[countrycode].svg
-- https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags-rounded-colourized/[]countrycode].svg
+- https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags-rounded-colourized/[countrycode].svg
 
 ---
 
