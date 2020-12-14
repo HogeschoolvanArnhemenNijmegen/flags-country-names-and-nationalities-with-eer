@@ -1,0 +1,20 @@
+{
+  "name": "flags-country-names-and-nationalities-with-eer",
+  "version": "1.0.0",
+  "description": "Countries with flags, nationality in Dutch and EER check",
+  "main": "country-list.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HogeschoolvanArnhemenNijmegen/flags-country-names-and-nationalities-with-eer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HogeschoolvanArnhemenNijmegen/flags-country-names-and-nationalities-with-eer/issues"
+  },
+  "homepage": "https://github.com/HogeschoolvanArnhemenNijmegen/flags-country-names-and-nationalities-with-eer#readme"
+}
