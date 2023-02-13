@@ -157,7 +157,7 @@
     "name": "Bonaire, Sint Eustatius and Saba",
     "alpha2": "BQ",
     "countryCode": "535",
-    "EER": true,
+    "EER": false,
     "nationality": { "dutch": "Nederlands (Bonaire, Sint Eustatius en Saba)" }
   },
   {
@@ -325,7 +325,7 @@
     "name": "Curaçao",
     "alpha2": "CW",
     "countryCode": "531",
-    "EER": true,
+    "EER": false,
     "nationality": { "dutch": "Nederlands (Curaçao)" }
   },
   {
