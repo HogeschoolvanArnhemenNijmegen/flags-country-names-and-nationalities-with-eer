@@ -59,7 +59,7 @@
     "name": "Aruba",
     "alpha2": "AW",
     "countryCode": "533",
-    "EER": true,
+    "EER": false,
     "nationality": { "dutch": "Nederlands (Aruba)" }
   },
   {
